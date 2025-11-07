@@ -1,6 +1,6 @@
 {
   "main.tsx": {
-    "file": "main-CtdE8htx.js",
+    "file": "main-CWy8gaTs.js",
     "name": "main",
     "src": "main.tsx",
     "isEntry": true,
@@ -13,7 +13,7 @@
     ]
   },
   "pages/About.tsx": {
-    "file": "About-D-PlCJ92.js",
+    "file": "About-DwZpMpCZ.js",
     "name": "About",
     "src": "pages/About.tsx",
     "isDynamicEntry": true,
@@ -22,7 +22,7 @@
     ]
   },
   "pages/CreateProduct.tsx": {
-    "file": "CreateProduct-DT3KD038.js",
+    "file": "CreateProduct-BdNFK2ID.js",
     "name": "CreateProduct",
     "src": "pages/CreateProduct.tsx",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "pages/Index.tsx": {
-    "file": "Index-DykYnyqj.js",
+    "file": "Index-Dmyyp10Y.js",
     "name": "Index",
     "src": "pages/Index.tsx",
     "isDynamicEntry": true,
@@ -40,7 +40,7 @@
     ]
   },
   "pages/ProductDetail.tsx": {
-    "file": "ProductDetail-CaiLt7mm.js",
+    "file": "ProductDetail-DYXDOQ_J.js",
     "name": "ProductDetail",
     "src": "pages/ProductDetail.tsx",
     "isDynamicEntry": true,
@@ -49,7 +49,7 @@
     ]
   },
   "pages/ProductsList.tsx": {
-    "file": "ProductsList-B_1iA4zT.js",
+    "file": "ProductsList-DApS-oIR.js",
     "name": "ProductsList",
     "src": "pages/ProductsList.tsx",
     "isDynamicEntry": true,
