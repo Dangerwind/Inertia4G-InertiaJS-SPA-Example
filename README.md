@@ -3,6 +3,7 @@
    Это демонстрационное приложение показывает, как интегрировать Spring Boot с Inertia.js и React для 
 создания современных SPA-приложений (Single Page Applications) без написания традиционных REST API.
 
+![скрин страницы с продуктами](https://github.com/Dangerwind/Inertia4G-InertiaJS-SPA-Example/blob/main/img/mainscr.png)
    
 **Описание проекта**
   
