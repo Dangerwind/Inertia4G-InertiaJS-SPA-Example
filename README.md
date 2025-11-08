@@ -1,8 +1,7 @@
 ## Spring Boot + Inertia.js + React: Полный пример приложения
    
    Это демонстрационное приложение показывает, как интегрировать Spring Boot с Inertia.js и React для 
-создания современных SPA-приложений (Single Page Applications) без написания традиционных REST API. 
-Проект демонстрирует полный цикл работы с данными: от отображения списка товаров до создания новых товаров.
+создания современных SPA-приложений (Single Page Applications) без написания традиционных REST API.
    
 **Описание проекта**
   
@@ -93,7 +92,7 @@ make build-frontend:
 
 Далее там же запустите frontend:
 ```bash
-make dev-frontend
+make run-frontend
 ```
 Убедитель что сервер запустился на http://localhost:5173/
 

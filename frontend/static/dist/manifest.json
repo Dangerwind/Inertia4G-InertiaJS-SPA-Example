@@ -1,0 +1,60 @@
+{
+  "main.tsx": {
+    "file": "main-CWy8gaTs.js",
+    "name": "main",
+    "src": "main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/About.tsx",
+      "pages/Index.tsx",
+      "pages/ProductDetail.tsx",
+      "pages/ProductsList.tsx",
+      "pages/CreateProduct.tsx"
+    ]
+  },
+  "pages/About.tsx": {
+    "file": "About-DwZpMpCZ.js",
+    "name": "About",
+    "src": "pages/About.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.tsx"
+    ]
+  },
+  "pages/CreateProduct.tsx": {
+    "file": "CreateProduct-BdNFK2ID.js",
+    "name": "CreateProduct",
+    "src": "pages/CreateProduct.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.tsx"
+    ]
+  },
+  "pages/Index.tsx": {
+    "file": "Index-Dmyyp10Y.js",
+    "name": "Index",
+    "src": "pages/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.tsx"
+    ]
+  },
+  "pages/ProductDetail.tsx": {
+    "file": "ProductDetail-DYXDOQ_J.js",
+    "name": "ProductDetail",
+    "src": "pages/ProductDetail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.tsx"
+    ]
+  },
+  "pages/ProductsList.tsx": {
+    "file": "ProductsList-DApS-oIR.js",
+    "name": "ProductsList",
+    "src": "pages/ProductsList.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.tsx"
+    ]
+  }
+}

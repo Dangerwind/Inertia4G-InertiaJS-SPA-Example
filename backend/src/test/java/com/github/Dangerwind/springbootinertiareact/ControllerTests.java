@@ -79,5 +79,7 @@ class ControllerTests {
 		assertThat(products).isPresent();
 		assertThat(products).isNotNull();
 		assertThat(products.get().getDescription()).isEqualTo(productDTO.getDescription());
+
+		productRepository.deleteAll();
 	}
 }
