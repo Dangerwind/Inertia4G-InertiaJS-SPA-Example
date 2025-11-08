@@ -18,9 +18,6 @@ java {
 
 repositories {
 	mavenCentral()
-	// Если inertia4j-core всё же потребуется явно и не подтянется транзитивно:
-	// maven { url = uri("https://maven.pkg.github.com/Inertia4J/inertia4j") }
-	// credentials { username = findProperty("gpr.user") as String?; password = findProperty("gpr.key") as String? }
 }
 
 dependencies {
@@ -40,8 +37,6 @@ dependencies {
 
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-
-
 }
 
 tasks.withType<Test> {

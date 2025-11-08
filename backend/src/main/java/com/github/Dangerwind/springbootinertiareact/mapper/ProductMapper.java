@@ -4,7 +4,6 @@ import com.github.Dangerwind.springbootinertiareact.dto.ProductDTO;
 import com.github.Dangerwind.springbootinertiareact.model.Product;
 import org.mapstruct.Mapper;
 import org.mapstruct.MappingConstants;
-import org.mapstruct.ReportingPolicy;
 
 @Mapper(
         componentModel = MappingConstants.ComponentModel.SPRING,
@@ -13,5 +12,4 @@ import org.mapstruct.ReportingPolicy;
 public abstract class ProductMapper {
 
     public abstract Product toModel(ProductDTO product);
-    public abstract ProductDTO toDTO(Product product);
 }

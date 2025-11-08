@@ -83,11 +83,13 @@ public class MainController {
                 "title", prod.getTitle(),
                 "description", prod.getDescription()
         );
+
         return inertia.render("ProductDetail", Map.of("product", product));
     }
 
     @GetMapping("/products/create")
     public ResponseEntity<String> createProduct() {
+
         return inertia.render("CreateProduct", Map.of());
     }
 
