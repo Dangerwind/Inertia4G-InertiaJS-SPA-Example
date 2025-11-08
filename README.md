@@ -1,4 +1,4 @@
-** Spring Boot + Inertia.js + React: Полный пример приложения**
+**Spring Boot + Inertia.js + React: Полный пример приложения**
 ---  
    Это демонстрационное приложение показывает, как интегрировать Spring Boot с Inertia.js и React для 
 создания современных SPA-приложений (Single Page Applications) без написания традиционных REST API.
