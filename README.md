@@ -39,7 +39,7 @@ PageObject - JSON объект от Spring Boot (компонент + props)
 implementation("io.github.inertia4j:inertia4j-spring:1.0.4")
 ```
 
-Импортируем и нжектируем в нашем контроллере:
+Импортируем и инжектируем в нашем контроллере:
 ```java
 import io.github.inertia4j.spring.Inertia;
 
