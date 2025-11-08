@@ -75,8 +75,8 @@ cd Inertia4G-InertiaJS-SPA-Example
 
 Для запуска backend-приложения требуется:
 
-- **Java 21** (JDK)
-- **Gradle** 
+- Java 21 (JDK)
+- Gradle 
 
 Можно воспользоваться скриптом `setup-java-backend.sh`, который автоматически установит и настроит
 Java и Gradle для вашей системы.
@@ -94,7 +94,7 @@ make build-frontend:
 ```bash
 make run-frontend
 ```
-Убедитель что сервер запустился на http://localhost:5173/
+Терминал напишет что сервер запустился на http://localhost:5173/
 
 Во втором терминале запустите backend:
 ```bash
