@@ -29,8 +29,9 @@ app.html (backend/src/main/resources/templates/) — Точка входа, эт
 PageObject - JSON объект от Spring Boot (компонент + props)
 При первом запросе браузер получает полный HTML с данными.
 При последующих — XHR запросы с заголовком X-Inertia: true
-   
-Подключаем Inertia в build.gradle.kts
+
+      
+Подключаем Inertia в `build.gradle.kts`
 ```kotlin
 implementation("io.github.inertia4j:inertia4j-spring:1.0.4")
 ```
